@@ -1,0 +1,50 @@
+Algeria: Algiers
+Andorra: Andorra la Vella
+Azerbaijan: Baku
+Brunei: Bandar Seri Begawan
+Central African Republic: Bangui
+China: Beijing
+Belize: Belmopan
+Colombia: Bogota
+Brazil: Brasilia
+Congo, Republic of the: Brazzaville
+Barbados: Bridgetown
+Belgium: Brussels
+Argentina: Buenos Aires
+Australia: Canberra
+Denmark: Copenhagen
+Bangladesh: Dhaka
+Djibouti: Djibouti
+Botswana: Gaborone
+Burundi: Gitega
+Cuba: Havana
+Afghanistan: Kabul
+Congo, Democratic Republic of the: Kinshasa
+Bolivia: La Paz
+Angola: Luanda
+Bahrain: Manama
+Belarus: Minsk
+Comoros: Moroni
+The Bahamas: Nassau
+Chad: N'Djamena
+Cyprus: Nicosia
+Canada: Ottawa
+Burkina Faso: Ouagadougou
+Cambodia: Phnom Penh
+Benin: Porto-Novo
+Czech Republic: Prague
+Cape Verde: Praia
+Dominica: Roseau
+Antigua and Barbuda: Saint John's
+Costa Rica: San Jose
+Chile: Santiago
+Dominican Republic: Santo Domingo
+Bosnia and Herzegovina: Sarajevo
+Bulgaria: Sofia
+Bhutan: Thimphu
+Albania: Tirana
+Austria: Vienna
+Cote d'Ivoire: Yamoussoukro 
+Cameroon: Yaounde
+Armenia: Yerevan
+Croatia: Zagreb
