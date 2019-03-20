@@ -4,9 +4,9 @@ echo
 echo -e "${bold}MENU${normal}\n1.Addition\n2.Subtraction\n3.Multiplication\n4.Division\n5.Modulus"
 echo
 printf "Choose operation: "
-read opt
+read  opt
 echo
-if [ $opt>5 ]
+if [ $opt -gt 5 ]
 then
 echo "Invalid option"
 exit
