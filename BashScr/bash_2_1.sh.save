@@ -1,0 +1,12 @@
+if [[ $# -ne 1 ]]
+then
+	echo "No file specified as an argument"
+	exit
+fi
+
+if [[ !(-a $1) ]]
+then
+	echo "Enter a valid file as an argument"
+	exit
+fi
+
