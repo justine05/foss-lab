@@ -14,7 +14,7 @@ NAME2=`basename $2`
 diff $1 $2 | grep -w "$NAME2" | awk -F ": " '{print $2}' >> b.temp
 while read line
 do
-	cp "$2/$line" $1
+	cp -r "$2/$line" $1
 done < b.temp
 rm b.temp
 

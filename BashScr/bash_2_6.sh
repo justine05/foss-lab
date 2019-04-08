@@ -9,7 +9,7 @@ then
     	echo "Enter valid file"
         exit
 fi
-awk '!a[$0]++' $1 >> b.temp
+awk '!a[$0]++' $1 | tee b.temp
 rm $1
 mv b.temp $1
 

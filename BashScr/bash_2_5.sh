@@ -16,7 +16,7 @@ V=0
 L=`wc -l $1 | awk '{print $1}'`
 while read -n1 c
 do
-	if [[ $c == *['!'@#\$%^\&*()_+]*  ]]
+	if [[ $c == *['!'@#\$%^\&*()_+,]*  ]]
 	then
 		((SYM++))
 	elif [[ $c == *[aAeEiIoOuU]*  ]]
